@@ -1,0 +1,10 @@
+W:\!Личная\ослап\GAME\bin\Debug\GAME.exe.config
+W:\!Личная\ослап\GAME\bin\Debug\GAME.exe
+W:\!Личная\ослап\GAME\bin\Debug\GAME.pdb
+W:\!Личная\ослап\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+W:\!Личная\ослап\GAME\obj\Debug\GAME.Form1.resources
+W:\!Личная\ослап\GAME\obj\Debug\GAME.Properties.Resources.resources
+W:\!Личная\ослап\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+W:\!Личная\ослап\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+W:\!Личная\ослап\GAME\obj\Debug\GAME.exe
+W:\!Личная\ослап\GAME\obj\Debug\GAME.pdb
